@@ -1,2 +1,2 @@
 #!/bin/bash
-non empty read me
+Shell, permissions
